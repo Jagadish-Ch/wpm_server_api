@@ -1,0 +1,25 @@
+[
+    {
+
+        "Address" :"Paritala",
+        "Amount" : 0,
+        "DateTime" : "04/04/2024 - ( 19:35:46 )",
+        "MobileNo" : 9012345678,
+        "Name" : "RamaKrishna",
+        "PaidOrNot" : "Amount Not Paid",
+        "ReturnedCans" : 4,
+        "TotalCans" : 10,
+        "WaterType" : "Cooling"
+    },
+    {
+        "Address" :"Paritala",
+        "Amount" : 0,
+        "DateTime" : "04/04/2024 - ( 13:35:46 )",
+        "MobileNo" : 9012312378,
+        "Name" : "Ram",
+        "PaidOrNot" : "Amount Not Paid",
+        "ReturnedCans" : 4,
+        "TotalCans" : 10,
+        "WaterType" : "Cooling"
+    }
+]
