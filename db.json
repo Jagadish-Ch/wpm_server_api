@@ -1,25 +1,284 @@
-[
+{
+  "admin": [
     {
-
-        "Address" :"Paritala",
-        "Amount" : 0,
-        "DateTime" : "04/04/2024 - ( 19:35:46 )",
-        "MobileNo" : 9012345678,
-        "Name" : "RamaKrishna",
-        "PaidOrNot" : "Amount Not Paid",
-        "ReturnedCans" : 4,
-        "TotalCans" : 10,
-        "WaterType" : "Cooling"
+      "id": 1,
+      "username": "admin",
+      "password": "admin@123"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "user@123"
+    }
+  ],
+  "report": [
+    {
+      "id": "203df9ad",
+      "DateTime": "11/04/2024 - ( 4:17 PM )",
+      "WaterType": "Cooling",
+      "Name": "Balu",
+      "MobileNo": 9012312318,
+      "TotalCans": 90,
+      "ReturnedCans": 0,
+      "Address": "Mu",
+      "Amount": 1000,
+      "PaidOrNot": "Amount Paid"
     },
     {
-        "Address" :"Paritala",
-        "Amount" : 0,
-        "DateTime" : "04/04/2024 - ( 13:35:46 )",
-        "MobileNo" : 9012312378,
-        "Name" : "Ram",
-        "PaidOrNot" : "Amount Not Paid",
-        "ReturnedCans" : 4,
-        "TotalCans" : 10,
-        "WaterType" : "Cooling"
+      "id": 3,
+      "DateTime": "11/04/2024 - ( 6:11 PM )",
+      "WaterType": "Cooling",
+      "Name": "Ramesh",
+      "MobileNo": 1231231,
+      "TotalCans": 10,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": 4,
+      "DateTime": "11/04/2024 - ( 6:28 PM )",
+      "WaterType": "Cooling",
+      "Name": "Ramakrishna",
+      "MobileNo": 12312312312312312,
+      "TotalCans": 20,
+      "ReturnedCans": 0,
+      "Address": "P",
+      "Amount": 800,
+      "PaidOrNot": "Amount Paid"
+    },
+    {
+      "id": 5,
+      "DateTime": "11/04/2024 - ( 6:29 PM )",
+      "WaterType": "Cooling",
+      "Name": "Kishore",
+      "MobileNo": 123,
+      "TotalCans": 10,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "cdbb3abe",
+      "DateTime": "11/04/2024 - ( 6:40 PM )",
+      "WaterType": "Cooling",
+      "Name": "KGN",
+      "MobileNo": 123,
+      "TotalCans": 20,
+      "ReturnedCans": 0,
+      "Address": "Pa",
+      "Amount": 10,
+      "PaidOrNot": "Amount Paid"
+    },
+    {
+      "id": "fecf09b2",
+      "DateTime": "11/04/2024 - ( 6:40 PM )",
+      "WaterType": "Cooling",
+      "Name": "IBM",
+      "MobileNo": 11234,
+      "TotalCans": 20,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "0fdadd13",
+      "DateTime": "11/04/2024 - ( 6:42 PM )",
+      "WaterType": "Normal",
+      "Name": "Baji",
+      "MobileNo": 123789,
+      "TotalCans": 12,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "d3a18f31",
+      "DateTime": "11/04/2024 - ( 6:44 PM )",
+      "WaterType": "Cooling",
+      "Name": "Badri",
+      "MobileNo": 123,
+      "TotalCans": 2,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "8b9fe801",
+      "DateTime": "11/04/2024 - ( 6:47 PM )",
+      "WaterType": "Cooling",
+      "Name": "Syda",
+      "MobileNo": 123,
+      "TotalCans": 3,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "0b56f28e",
+      "DateTime": "11/04/2024 - ( 6:49 PM )",
+      "WaterType": "Cooling",
+      "Name": "Munni",
+      "MobileNo": 123123,
+      "TotalCans": 12,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "4f11dd13",
+      "DateTime": "11/04/2024 - ( 6:50 PM )",
+      "WaterType": "Cooling",
+      "Name": "Satish",
+      "MobileNo": 1234,
+      "TotalCans": 13,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "5348f6f7",
+      "DateTime": "11/04/2024 - ( 6:53 PM )",
+      "WaterType": "Cooling",
+      "Name": "Venkat",
+      "MobileNo": 345,
+      "TotalCans": 10,
+      "ReturnedCans": 3,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "f82cb81e",
+      "DateTime": "17/04/2024 - ( 3:12 PM )",
+      "WaterType": "Cooling",
+      "Name": "Haji",
+      "MobileNo": 67867,
+      "TotalCans": 2,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 40,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "4deed9e5",
+      "DateTime": "11/04/2024 - ( 6:57 PM )",
+      "WaterType": "Cooling",
+      "Name": "Harish",
+      "MobileNo": 456,
+      "TotalCans": 4,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "3887a179",
+      "DateTime": "11/04/2024 - ( 6:59 PM )",
+      "WaterType": "Cooling",
+      "Name": "Rakesh",
+      "MobileNo": 5343,
+      "TotalCans": 5,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "be62bd07",
+      "DateTime": "17/04/2024 - ( 2:46 PM )",
+      "WaterType": "Cooling",
+      "Name": "Veerendar",
+      "MobileNo": 4563,
+      "TotalCans": 1,
+      "ReturnedCans": 0,
+      "Address": "Pa",
+      "Amount": 160,
+      "PaidOrNot": "Amount Paid"
+    },
+    {
+      "id": "108b7921",
+      "DateTime": "17/04/2024 - ( 2:45 PM )",
+      "WaterType": "Cooling",
+      "Name": "Karim",
+      "MobileNo": 123123123,
+      "TotalCans": 4,
+      "ReturnedCans": 0,
+      "Address": "Pa",
+      "Amount": 80,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "0fc665a6",
+      "DateTime": "11/04/2024 - ( 7:45 PM )",
+      "WaterType": "Normal",
+      "Name": "Abbas",
+      "MobileNo": 10000000,
+      "TotalCans": 14,
+      "ReturnedCans": 0,
+      "Address": "",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid",
+      "prevTotalCans": 12
+    },
+    {
+      "id": "fcb24aee",
+      "DateTime": "13/04/2024 - ( 1:59 AM )",
+      "WaterType": "Normal",
+      "Name": "Saleem",
+      "MobileNo": 1231231231,
+      "TotalCans": 2,
+      "ReturnedCans": 0,
+      "Address": "Paritala",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid",
+      "prevTotalCans": 4
+    },
+    {
+      "id": "a1518336",
+      "DateTime": "13/04/2024 - ( 2:00 AM )",
+      "WaterType": "Cooling",
+      "Name": "Khadeer",
+      "MobileNo": 3453453453,
+      "TotalCans": 3,
+      "ReturnedCans": 0,
+      "Address": "Paritala",
+      "Amount": 0,
+      "PaidOrNot": "Amount Not Paid"
+    },
+    {
+      "id": "6102e7b7",
+      "DateTime": "17/04/2024 - ( 4:14 PM )",
+      "WaterType": "Cooling",
+      "Name": "Ramu",
+      "MobileNo": 9012312367,
+      "TotalCans": 2,
+      "ReturnedCans": 0,
+      "Address": "Paritala",
+      "Amount": 80,
+      "PaidOrNot": "Amount Paid"
+    },
+    {
+      "id": "50d4c669",
+      "DateTime": "17/04/2024 - ( 4:19 PM )",
+      "WaterType": "Cooling",
+      "Name": "Krishna",
+      "MobileNo": 1234567890,
+      "TotalCans": 2,
+      "ReturnedCans": 0,
+      "Address": "Paritala",
+      "Amount": 80,
+      "PaidOrNot": "Amount Paid"
     }
-]
+  ]
+}
